@@ -1,1 +1,2 @@
-print('Hello World!')
+my_name = "Ming"
+print("Hello, " + my_name )
